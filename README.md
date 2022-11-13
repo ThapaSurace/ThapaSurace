@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suresh Thapa</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3><br />
-<img align="right" alt="coding" src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg" width="300" height="300" />
+<img align="right" alt="coding" src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg" width="500" height="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thapasurace&label=Profile%20views&color=0e75b6&style=flat" alt="thapasurace" /> </p>
 
