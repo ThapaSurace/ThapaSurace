@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thapasurace&label=Profile%20views&color=0e75b6&style=flat" alt="thapasurace" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I have completed my traning in **MERN STACK** from dursikshya institute.
 
 - 💬 Ask me about **html,css,react,express,mongoDB**
 
