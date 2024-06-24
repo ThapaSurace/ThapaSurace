@@ -6,7 +6,7 @@
 
 - 🌱 I have completed my traning in **MERN STACK** from dursikshya institute.
 
-- 💬 Ask me about **html,css,react,express,mongoDB**
+- 💬 Ask me about **html,css,react,express,mongoDB,next js, tailwind css, GO**
 
 - 📫 How to reach me **zorosenpai456@gmail.com**
 
