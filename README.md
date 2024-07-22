@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thapasurace&label=Profile%20views&color=0e75b6&style=flat" alt="thapasurace" /> </p>
 
-- 🌱 I have completed my traning in **MERN STACK** from dursikshya institute.
-
 - 💬 Ask me about **html,css,react,express,mongoDB,next js, tailwind css, GO**
 
 - 📫 How to reach me **zorosenpai456@gmail.com**
