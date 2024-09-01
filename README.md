@@ -1,5 +1,5 @@
 # 💫 About Me:
-• I have completed my training in MERN STACK<br>• I'm currently learning GO<br>• ⚡ Fun fact Programmers have a reputation for drinking a lot of coffee—so much so that some say caffeine is their most critical dependency!<br>
+• I have completed my training in MERN STACK.<br>• I'm currently learning GO.<br>• ⚡ Fun fact Programmers have a reputation for drinking a lot of coffee—so much so that some say caffeine is their most critical dependency!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suresh-thapa-75672719a) 
